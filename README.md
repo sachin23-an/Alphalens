@@ -1,6 +1,3 @@
-# Alphalens
-AI-powered Quant Insight Interface for simplified stock analysis
-
 # AlphaLens 🚀
 
 AlphaLens is an AI-powered Quant Insight Interface that transforms raw stock data into clear, structured, and actionable insights.
